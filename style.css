@@ -7,3 +7,9 @@ Author URI:     http://vadimcpp.ru/
 Template:       twentyseventeen
 Version:        0.1.0
 */
+
+@import url("../twentyseventeen/style.css");
+
+.site-title {
+    text-shadow: 5px 5px 0px #00d066;
+}
