@@ -13,3 +13,8 @@ Version:        0.1.0
 .site-title {
     text-shadow: 3px 3px 0px #00c1cf;
 }
+
+.site-info {
+    text-align: right;
+    padding-top: 0;
+}
